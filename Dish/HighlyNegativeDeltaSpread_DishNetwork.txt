@@ -1,0 +1,403 @@
+This document contains the data pertaining to Dish Network. 
+
+All of the data points below correspond to an instance when the Delta Spread is less than -1000, meaning that the Calibrated (Merton) Spread is 1000 greater than the Physical (historical) spread. 
+
+
+====TESTING====
+date:  10-10-2008
+
+Parameters Given Below: 
+
+   sigE:  1.08474
+   beta_EM:  1.0979749048112057
+   rate:  0.038900000000000004
+   Liabilities:  8409153000.0
+   Equity:  6169631600.0
+   Spread_phys:  651.872
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  8593371670.89
+   CalibSigA:  0.898335319688
+   CalibSpread:  2099.0178490109124
+   DeltaSpread:  -1447.1458490109126
+
+====TESTING====
+date:  10-16-2008
+
+Parameters Given Below: 
+
+   sigE:  0.99882
+   beta_EM:  1.0973260933083004
+   rate:  0.039900000000000005
+   Liabilities:  8409153000.0
+   Equity:  6759144200.0
+   Spread_phys:  641.375
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9767677076.17
+   CalibSigA:  0.801493653439
+   CalibSpread:  1656.7364241908726
+   DeltaSpread:  -1015.3614241908726
+
+====TESTING====
+date:  11-18-2008
+
+Parameters Given Below: 
+
+   sigE:  0.98965
+   beta_EM:  1.051498167918395
+   rate:  0.0353
+   Liabilities:  8409153000.0
+   Equity:  4707517500.0
+   Spread_phys:  540.212
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  7670213541.81
+   CalibSigA:  0.747709688089
+   CalibSpread:  1733.44215351137
+   DeltaSpread:  -1193.23015351137
+
+====TESTING====
+date:  11-19-2008
+
+Parameters Given Below: 
+
+   sigE:  0.98603
+   beta_EM:  1.051498167918395
+   rate:  0.0338
+   Liabilities:  8409153000.0
+   Equity:  4300695000.0
+   Spread_phys:  557.68
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  7273036968.51
+   CalibSigA:  0.731256109212
+   CalibSpread:  1741.9411436225537
+   DeltaSpread:  -1184.2611436225538
+
+====TESTING====
+date:  11-20-2008
+
+Parameters Given Below: 
+
+   sigE:  1.05533
+   beta_EM:  1.0518784978563578
+   rate:  0.031
+   Liabilities:  8409153000.0
+   Equity:  3741872900.0
+   Spread_phys:  577.019
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  6208128512.5
+   CalibSigA:  0.80273526377
+   CalibSpread:  2143.239402803078
+   DeltaSpread:  -1566.220402803078
+
+====TESTING====
+date:  11-21-2008
+
+Parameters Given Below: 
+
+   sigE:  1.05505
+   beta_EM:  1.1030923016728251
+   rate:  0.032
+   Liabilities:  8409153000.0
+   Equity:  4027989800.0
+   Spread_phys:  627.946
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  6514124184.53
+   CalibSigA:  0.811708913384
+   CalibSpread:  2117.18341464228
+   DeltaSpread:  -1489.2374146422799
+
+====TESTING====
+date:  11-24-2008
+
+Parameters Given Below: 
+
+   sigE:  0.97648
+   beta_EM:  1.1030923016728251
+   rate:  0.0335
+   Liabilities:  8409153000.0
+   Equity:  4381165400.0
+   Spread_phys:  627.946
+   STD:  38333000.0
+   LTD:  4969423000.0
+
+Calibrated Params Below: 
+
+   CalibA:  7435348097.82
+   CalibSigA:  0.72118558054
+   CalibSpread:  1690.6174559990363
+   DeltaSpread:  -1062.6714559990364
+
+====TESTING====
+date:  12-01-2008
+
+Parameters Given Below: 
+
+   sigE:  0.95992
+   beta_EM:  1.1786313260068184
+   rate:  0.027200000000000002
+   Liabilities:  9303202000.0
+   Equity:  4515282700.0
+   Spread_phys:  569.202
+   STD:  1510070000.0
+   LTD:  4231238000.0000005
+
+Calibrated Params Below: 
+
+   CalibA:  8103820072.73
+   CalibSigA:  0.687092106251
+   CalibSpread:  1633.2278791182455
+   DeltaSpread:  -1064.0258791182455
+
+====TESTING====
+date:  12-02-2008
+
+Parameters Given Below: 
+
+   sigE:  0.9534600000000001
+   beta_EM:  1.1786313260068184
+   rate:  0.0268
+   Liabilities:  9303202000.0
+   Equity:  4738811600.0
+   Spread_phys:  567.527
+   STD:  1510070000.0
+   LTD:  4231238000.0000005
+
+Calibrated Params Below: 
+
+   CalibA:  8409947779.07
+   CalibSigA:  0.684879855499
+   CalibSpread:  1591.7148844865628
+   DeltaSpread:  -1024.1878844865628
+
+====TESTING====
+date:  02-17-2009
+
+Parameters Given Below: 
+
+   sigE:  0.9230700000000001
+   beta_EM:  1.130032714831601
+   rate:  0.0264
+   Liabilities:  10387031000.0
+   Equity:  5610574100.0
+   Spread_phys:  387.237
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  10049934671.6
+   CalibSigA:  0.654086170853
+   CalibSpread:  1436.0953161435964
+   DeltaSpread:  -1048.8583161435963
+
+====TESTING====
+date:  02-18-2009
+
+Parameters Given Below: 
+
+   sigE:  0.96057
+   beta_EM:  1.130032714831601
+   rate:  0.0274
+   Liabilities:  10387031000.0
+   Equity:  5355751200.0
+   Spread_phys:  388.425
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9379222407.91
+   CalibSigA:  0.695838752417
+   CalibSpread:  1622.8259882852628
+   DeltaSpread:  -1234.4009882852629
+
+====TESTING====
+date:  02-19-2009
+
+Parameters Given Below: 
+
+   sigE:  0.93308
+   beta_EM:  1.1301973884815197
+   rate:  0.0285
+   Liabilities:  10387031000.0
+   Equity:  5136692900.0
+   Spread_phys:  388.846
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9395340861.74
+   CalibSigA:  0.656420533987
+   CalibSpread:  1498.2125574154838
+   DeltaSpread:  -1109.3665574154838
+
+====TESTING====
+date:  02-20-2009
+
+Parameters Given Below: 
+
+   sigE:  1.08865
+   beta_EM:  1.167703479698854
+   rate:  0.0278
+   Liabilities:  10387031000.0
+   Equity:  4989163900.0
+   Spread_phys:  390.793
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  7846794753.5
+   CalibSigA:  0.853809438267
+   CalibSpread:  2303.1302002010725
+   DeltaSpread:  -1912.3372002010724
+
+====TESTING====
+date:  02-23-2009
+
+Parameters Given Below: 
+
+   sigE:  0.92376
+   beta_EM:  1.167703479698854
+   rate:  0.0278
+   Liabilities:  10387031000.0
+   Equity:  4890811200.0
+   Spread_phys:  393.148
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9239339887.2
+   CalibSigA:  0.637702997975
+   CalibSpread:  1463.4409073647805
+   DeltaSpread:  -1070.2929073647806
+
+====TESTING====
+date:  02-24-2009
+
+Parameters Given Below: 
+
+   sigE:  0.94804
+   beta_EM:  1.167703479698854
+   rate:  0.027999999999999997
+   Liabilities:  10387031000.0
+   Equity:  5167986900.0
+   Spread_phys:  391.544
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9288371418.94
+   CalibSigA:  0.675751254331
+   CalibSpread:  1569.2230397878911
+   DeltaSpread:  -1177.6790397878913
+
+====TESTING====
+date:  02-25-2009
+
+Parameters Given Below: 
+
+   sigE:  0.91488
+   beta_EM:  1.167703479698854
+   rate:  0.029500000000000002
+   Liabilities:  10387031000.0
+   Equity:  5042810800.0
+   Spread_phys:  387.262
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  9460553166.95
+   CalibSigA:  0.631868639282
+   CalibSpread:  1414.8584396968397
+   DeltaSpread:  -1027.5964396968398
+
+====TESTING====
+date:  03-06-2009
+
+Parameters Given Below: 
+
+   sigE:  0.91952
+   beta_EM:  1.2013407187670353
+   rate:  0.028300000000000002
+   Liabilities:  8785709000.0
+   Equity:  4147547200.0
+   Spread_phys:  438.764
+   STD:  47866000.0
+   LTD:  5078790000.0
+
+Calibrated Params Below: 
+
+   CalibA:  7855194457.91
+   CalibSigA:  0.633077482984
+   CalibSpread:  1442.457821933798
+   DeltaSpread:  -1003.693821933798
+
+====TESTING====
+date:  03-09-2009
+
+Parameters Given Below: 
+
+   sigE:  0.9307899999999999
+   beta_EM:  1.2013407187670353
+   rate:  0.028900000000000002
+   Liabilities:  10040111000.0
+   Equity:  4134124700.0000005
+   Spread_phys:  441.648
+   STD:  52193000.0
+   LTD:  6075629000.0
+
+Calibrated Params Below: 
+
+   CalibA:  8201271900.28
+   CalibSigA:  0.628921486816
+   CalibSpread:  1518.2926997703182
+   DeltaSpread:  -1076.6446997703183
+
+====TESTING====
+date:  03-10-2009
+
+Parameters Given Below: 
+
+   sigE:  0.92808
+   beta_EM:  1.2013407187670353
+   rate:  0.029900000000000003
+   Liabilities:  10387031000.0
+   Equity:  4357832700.0
+   Spread_phys:  441.648
+   STD:  26518000.0
+   LTD:  6470046000.0
+
+Calibrated Params Below: 
+
+   CalibA:  8580089410.67
+   CalibSigA:  0.628785301923
+   CalibSpread:  1501.3765161344445
+   DeltaSpread:  -1059.7285161344444
